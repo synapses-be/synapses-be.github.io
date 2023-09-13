@@ -1,1 +1,1 @@
-# synapses-be.github.io
+# Synapses BE construction page
