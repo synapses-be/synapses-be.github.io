@@ -1,0 +1,19 @@
+{
+  "name": "synapses-website",
+  "version": "1.0.0",
+  "description": "Synapses business website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.7",
+    "webpack": "^5.80.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "three": "^0.151.3"
+  }
+}
